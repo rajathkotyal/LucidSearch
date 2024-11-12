@@ -2,7 +2,7 @@ A query engine initiative to reduce AI Hallucinations and provide concrete insig
 
 Hallucinations is one of the key drawbacks of current LLMs, especially for important use cases like finding legal / medical / scientific information online. Additionally, Current LLMs have a generic and defined search space mostly made of text.
 
-This is a simple service aimed to reduce/eliminate hallucinations by utilizing mp3, mp4 and text using Retrieval Augmented Generation (RAG) : 
+This service aimed to reduce/eliminate hallucinations by utilizing mp3, mp4 and text using Retrieval Augmented Generation (RAG) : 
 
 --> User queries the engine, it returns the response with references to where it got the information from.
 
